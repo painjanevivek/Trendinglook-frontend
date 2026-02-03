@@ -1,1 +1,0 @@
-# Trendinglook-frontend
